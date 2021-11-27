@@ -165,6 +165,7 @@ IT-02-02
 ![image](https://user-images.githubusercontent.com/92876637/143674452-cb89e11b-d9b0-41b5-b71e-3dd3f0b53806.png)
 
 2. Klik Next
+
 ![image](https://user-images.githubusercontent.com/92876637/143674456-8948df28-70c5-4062-9d3c-3fe87e6c6a33.png)
 
 3. Next 
