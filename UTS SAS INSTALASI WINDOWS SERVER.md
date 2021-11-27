@@ -37,7 +37,7 @@ IT-02-02
 
   ![image](https://user-images.githubusercontent.com/92876637/143674273-f2a85ed4-a725-467c-896a-e020fd27fbbd.png)
 
-8. Pilih Windows Server Standard Evaluation (Destop Experience)
+8. Pilih Windows Server Standard Evaluation (Desktop Experience)
 
 ![image](https://user-images.githubusercontent.com/92876637/143674281-b9651810-49cb-4c2b-a3ae-faa598d1ad1f.png)
 
