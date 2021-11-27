@@ -178,11 +178,11 @@ IT-02-02
 
 7. Centang DNS server
 
-![image](https://user-images.githubusercontent.com/92876637/143674460-fb9d87b4-7932-4191-8436-8b095f9c5f5a.png)
+![image](https://user-images.githubusercontent.com/92876637/143674475-dbdba821-cd7c-4f9b-9434-c65284741643.png)
 
 8. Pastikan DNS Server : Yes
 
-![image](https://user-images.githubusercontent.com/92876637/143674475-dbdba821-cd7c-4f9b-9434-c65284741643.png)
+![image](https://user-images.githubusercontent.com/92876637/143674425-f147c46e-c4f6-421a-bfb0-5a9c3c21b50c.png)
 
 9. Klik Next dan tunggu proses instalasi
 
